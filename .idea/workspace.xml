@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="470064b6-1f81-4195-bd98-d293b54f5f7c" name="Changes" comment="Adds adding sounds, wav and png files to resources.">
-      <change afterPath="$PROJECT_DIR$/basic_pygame_tutorial/6_discrete_keyboard_movement.py" afterDir="false" />
+    <list default="true" id="470064b6-1f81-4195-bd98-d293b54f5f7c" name="Changes" comment="Adds discrete movement.">
+      <change afterPath="$PROJECT_DIR$/basic_pygame_tutorial/7_mouse_movement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.4_blitting_text.executor": "Run",
     "Python.5_adding_sounds.executor": "Run",
     "Python.6_discrete_keyboard_movement.executor": "Run",
+    "Python.7_mouse_movement.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -132,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763756890644</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adds discrete movement.">
+      <option name="closed" value="true" />
+      <created>1763761216940</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763761216940</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +150,7 @@
     <MESSAGE value="Adds blitting images" />
     <MESSAGE value="Adds blitting text and custom font" />
     <MESSAGE value="Adds adding sounds, wav and png files to resources." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds adding sounds, wav and png files to resources." />
+    <MESSAGE value="Adds discrete movement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds discrete movement." />
   </component>
 </project>
